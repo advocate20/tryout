@@ -2,10 +2,10 @@
 
 
 <div align="left">
-      <a href="http://www.axis.com/videoplayer/get_video.php?id=38697&w=520&youku=off">
-         <img src="https://img.youtube.com/vi/5yLzZikS15k/0.jpg" style="width:100%;">
+      <a href="http://www.axis.com/videoplayer/get_video.php?id=38697&w=520&youku=off">            
+         <img src="http://fileman.axis.com/files/image_gallery/img_acc_4_split_screen_shot_rgb_1202.jpg" style="width:100%;">
       </a>
-     
+     https://img.youtube.com/vi/5yLzZikS15k/0.jpg
 </div>
 <div align="left">
  <iframe width="560" height="315" src="https://www.youtube.com/embed/APBlQo8p5yE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
