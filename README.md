@@ -13,6 +13,6 @@
          <img src="https://img.youtube.com/vi/h7yjFf0jGhs/0.jpg">
       </a>
     <a 
-<iframe width="560" height="300" src="https://www.youtube.com/embed/h7yjFf0jGhs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> </iframe>
+<iframe src="https://www.youtube.com/embed/h7yjFf0jGhs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> </iframe>
     </a>
 </div>
