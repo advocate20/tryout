@@ -12,7 +12,3 @@
       <a href="https://www.youtube.com/embed/h7yjFf0jGhs">            
          <img src="https://img.youtube.com/vi/h7yjFf0jGhs/0.jpg">
       </a>
-    <a 
-<iframe src="https://www.youtube.com/embed/h7yjFf0jGhs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> </iframe>
-    </a>
-</div>
